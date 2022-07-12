@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities
+https://github.com/google/dspl/blob/master/samples/google/canonical/countries.csv
+https://www.fao.org/faostat/en/#data/ET
